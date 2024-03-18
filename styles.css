@@ -1,0 +1,19 @@
+/* Estilo para o navbar */
+.custom-navbar {
+    background-color: #305d4b; /* Cor de fundo verde */
+}
+
+/* Estilo para o texto do navbar */
+.custom-navbar .navbar-nav .nav-link {
+    color: pink; /* Cor do texto rosa */
+}
+
+/* Estilo para o footer */
+.custom-footer {
+    background-color: #305d4b; /* Cor de fundo verde */
+}
+
+/* Estilo para o texto do footer */
+.custom-footer p {
+    color: pink; /* Cor do texto rosa */
+}
